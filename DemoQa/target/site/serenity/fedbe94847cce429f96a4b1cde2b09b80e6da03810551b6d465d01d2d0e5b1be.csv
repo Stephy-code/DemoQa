@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Realizar una búsqueda en Google.","PENDING","2025-01-13T18:30:42.2387137-05:00[America/Bogota]","0.0","0.24"
+"Login","Login con credenciales correctas","ERROR","2025-01-13T18:30:42.5048316-05:00[America/Bogota]","0.0","0.14"
+"Login","Login con credenciales incorrectas","ERROR","2025-01-13T18:30:42.6539535-05:00[America/Bogota]","0.0","0.03"

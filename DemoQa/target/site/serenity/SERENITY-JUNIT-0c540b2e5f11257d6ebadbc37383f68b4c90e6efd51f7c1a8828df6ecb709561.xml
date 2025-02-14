@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="2" failures="0" name="Login" skipped="1" tests="3" time="0.41" timestamp="2025-01-13 06:30:42"><testcase name="Realizar una búsqueda en Google."><skipped/></testcase><testcase name="Login con credenciales correctas"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889)&#13;
+com.sistecredito.stepDefinitions.LoginStepDefinitions.ingreseLasCredencialesCorrectas(LoginStepDefinitions.java:47)&#13;
+✽.ingrese las credenciales correctas(file:///C:/Users/seserna.amarisext/IdeaProjects/nombre-aplicacion/src/test/resources/features/login.feature:18)&#13;
+</system-err></testcase><testcase name="Login con credenciales incorrectas"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889)&#13;
+com.sistecredito.stepDefinitions.LoginStepDefinitions.ingreseLasCredencialesIncorrectas(LoginStepDefinitions.java:60)&#13;
+✽.ingrese las credenciales incorrectas(file:///C:/Users/seserna.amarisext/IdeaProjects/nombre-aplicacion/src/test/resources/features/login.feature:24)&#13;
+</system-err></testcase></testsuite>

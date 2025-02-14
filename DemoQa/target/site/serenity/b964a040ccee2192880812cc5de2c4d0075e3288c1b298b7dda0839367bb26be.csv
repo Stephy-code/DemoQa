@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"diligenciar formulario","diligenciar formulario Text Box","ERROR","2025-02-12T22:40:58.3456619-05:00[America/Bogota]","0.0","282.48"
+"Login","Login con credenciales correctas","ERROR","2025-01-13T18:30:42.5048316-05:00[America/Bogota]","0.0","0.14"
+"Login","Login con credenciales incorrectas","ERROR","2025-01-13T18:30:42.6539535-05:00[America/Bogota]","0.0","0.03"
